@@ -1,0 +1,94 @@
+body 
+{ 
+   background:#444;  
+   color:#FFFFFF;
+   
+}
+
+#contenedor 
+{
+    width:90%;
+    margin:auto;
+    margin-top:1%;
+    margin-bottom:1%;
+}
+
+nav
+{ 
+   height:80%;
+   background:#E9FFFF;
+   font-size:15px;
+   text-align:center;
+   margin-top:auto;
+   font-family: Verdana;
+}
+
+li
+{
+    display:inline-block;
+    text-align:center;
+}
+
+li a
+{ 
+    display:block;
+    padding: 5px 20px;
+    text-decoration:none;
+    color:#000000;
+    cursor:pointer;
+}
+
+#contenido
+{ 
+    width:70%;
+    height:100%;
+    float:left;
+    background:#E9FFFF;
+    margin-top:1%;
+    color:#000000;
+    text-align:center;
+}
+
+article h2
+{
+    text-align:center;    
+}
+
+article h2
+{
+    text-align:center;      
+}
+
+aside
+{
+   text-align:center;
+   color:#000000;
+   margin-top:1%;
+   background:#E9FFFF;
+   float:right;
+   width:29%;
+   margin-bottom:1%;
+}
+
+footer
+{
+   background:#000000;
+   clear:both;
+}
+
+a
+{
+     text-decoration:none;
+}
+
+img
+{
+    margin:10px auto;
+	display:block;
+}
+
+img #zp
+{ width:15%;
+  position:relative;
+}
+

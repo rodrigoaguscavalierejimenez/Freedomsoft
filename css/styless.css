@@ -1,0 +1,154 @@
+
+img 
+{ 
+      display:block;
+      margin:auto;}
+body 
+{
+      background-color: #D7F7FF;
+      margin:0 auto;
+      max-width:1000px;
+      min-width:600px;
+}
+nav 
+{
+      background-color:#E9FFFF;
+      font-family: Verdana;
+}
+li
+{
+    display:inline-block;
+    text-align:center;
+}
+li a
+{ 
+    display:block;
+    padding: 15px 20px;
+    text-decoration:none;
+    color:#000000;
+    cursor:pointer;
+}
+#contenido 
+{
+      width:960px;
+      margin:0 auto;
+      text-align:center;
+}
+article h2
+{
+     margin:5 auto;
+     position:relative;
+     width:50%;
+     height:3%;
+     right:-25%;
+     border-radius:05px;
+     background-color:#A4A4A4;
+     
+ }
+#txttxt 
+{
+      position:relative;
+      margin:0 auto;
+      text-align:center;
+      border-radius:05px;
+      background-color:#EDFFFF;
+      width:75%;
+      right:1%;
+      height:50%;
+      
+      
+}
+article h2
+{
+     margin:5 auto;
+     position:relative;
+     border-radius:05px;
+     background-color:#A4A4A4;
+     width:25%;
+     left:35%;
+}
+#HistoriaUM
+{
+      margin:0 auto;
+      position:relative;
+      text-align:center;
+      border-radius:05px;
+      background-color:#EDFFFF;
+      width:80%;
+      left:-1%;
+      
+}
+article h2
+{
+     margin:5 auto;
+     position:relative;
+     border-radius:05px;
+     background-color:#A4A4A4;
+     width:20%;
+     left:40%;
+}
+#linuxhitoria
+{
+     position:relative;
+     text-align:center;
+     border-radius:05px;
+     background-color:#EDFFFF;
+     left:6.5%;
+     width:85%;     
+}
+article h2
+{
+     margin:5 auto;
+     position:relative;
+     border-radius:05px;
+     background-color:#A4A4A4;
+     left:35%;
+     width:28%;
+     
+}
+#actualidadlinux
+{
+     margin:0 auto;
+     text-align:center;
+     border-radius:05px;
+     background-color:#EDFFFF;
+     position:relative;
+     width:90%;
+     left:-1%;
+}
+a
+{
+     text-decoration:none;
+}
+#ubuntu
+{
+      margin:5 auto;
+      text-align:center;
+      border-radius:05px;
+      background-color:#EDFFFF;
+      position:relative;
+      width:100%;
+      top:-20px;
+}
+article img
+{
+      position:relative;
+      text-align:center;
+      width:30%;
+}
+#pie
+{
+    
+    background-color:#6F6F6F;
+    position:relative;
+    width:1200px;
+    height:29px;
+    right:12%;
+    
+}    
+footer
+{ 
+  position:relative;
+  font-size:larger;
+  color:#FFFFFF;
+}

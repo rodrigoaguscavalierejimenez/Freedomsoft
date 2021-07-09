@@ -1,0 +1,99 @@
+body 
+{text-align: center;
+  font: 16px "Calibri", cursive;
+background: #444;
+   color:#FFFFFF;
+   
+}
+
+nav
+{ 
+   height:80%;
+   background:#E9FFFF;
+   font-size:15px;
+   text-align:center;
+   margin-top:auto;
+  width:90%;
+    margin:auto;
+    margin-top:1%;
+    margin-bottom:1%; 
+    font-family: Verdana ;}
+li
+{
+    display:inline-block;
+    text-align:left;
+}
+
+li a
+{ 
+    display:block;
+    padding: 5px 20px;
+    text-decoration:none;
+    color:#000000;
+    cursor:pointer;
+}
+
+table {width:90%;
+	text-align: center;
+    margin:auto;
+    color: black;
+    margin-top:0%;
+    margin-bottom:0%;
+    text-align: left;
+    border-collapse: collapse;
+    border: 1px solid black;
+background-color: #E9FFFF;
+border-color:#E9FFFF;
+}
+
+h2{text-align: center}
+
+
+
+#cuadro {background-color: blue;
+	border-top: none;border: solid 1.0pt;}
+
+#cuadro2 {border-top: none;border: solid 1.0pt;height: 77.6pt;}
+
+#lista {margin-bottom: 20.0pt;margin-top: 20.0pt;text-align: justify;font-size: 20px;}
+
+#cuadro3 {border-top: none;border: solid 1.0pt;height: 77.6pt;}
+
+#cuadro1 {background-color: blue;
+	border-top: none;border: solid 1.0pt;}
+
+#lista2 {margin-bottom: 20.0pt;margin-top: 20.0pt;text-align: justify;font-size: 20px;}
+
+footer{color: white;
+  width:90%;
+    margin:auto;
+    margin-top:1%;
+    margin-bottom:1%;
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px solid black;
+background-color: black;
+border-color:black;
+}
+
+aside
+{
+   text-align:center;
+   color:#000000;
+   margin-top:1%;
+   float:right;
+   width:29%;
+   margin-bottom:1%;
+}
+
+aside img{ width:65%;
+  height:66%;
+  position:relative;
+}
+
+article {width: 90%;
+  margin: auto;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+background-color:#E9FFFF}
